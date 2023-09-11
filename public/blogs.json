@@ -1,0 +1,53 @@
+[
+    {
+      "id": 12345,
+      "title": "The Galactic Odyssey",
+      "author": "Samantha Smith",
+      "author_img": "https://plus.unsplash.com/premium_photo-1689530775582-83b8abdb5020?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHBlcnNvbiUyMHBpY3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "cover_photo": "https://media.istockphoto.com/id/1602741593/photo/abstract-vanishing-texture-the-concept-of-data-movement-by-binary-code-halftone-with-noise.webp?b=1&s=170667a&w=0&k=20&c=pECq5wmH1gxNCvHGZ7wz98-4TBrOULNddt5YtQCcU5o=",
+      "posted_date": "September 15, 2023",
+      "reading_time": 12,
+      "hashtags": ["#SpaceAdventure", "#SciFi", "#Exploration"]
+    },
+    {
+      "id": 67890,
+      "title": "Secrets of the Enchanted Forest",
+      "author": "James Anderson",
+      "author_img": "https://images.unsplash.com/photo-1526382925646-27b5eb86796e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGVyc29uJTIwcGljfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "cover_photo": "https://media.istockphoto.com/id/1602741078/photo/abstract-vanishing-texture-the-concept-of-data-movement-by-binary-code-halftone-with-noise.webp?b=1&s=170667a&w=0&k=20&c=lbp4OuKuFmu7J9fKJzMNhD9XOb6U0N3CGn23uckKZNI=",
+      "posted_date": "August 28, 2023",
+      "reading_time": 8,
+      "hashtags": ["#Fantasy", "#Mysteries", "#Nature"]
+    },
+    {
+      "id": 23456,
+      "title": "Gourmet Delights: Culinary Adventures",
+      "author": "Emily Davis",
+      "author_img": "https://media.istockphoto.com/id/1185367863/photo/smiling-business-woman-portrait.webp?b=1&s=170667a&w=0&k=20&c=dGpOGyyjrL1A3d1u51q7KKfK5nZKZbFcuQKW9UE-_tM=",
+      "cover_photo": "https://media.istockphoto.com/id/1498925093/photo/scary-man-wearing-a-black-mask-under-neon-lights.webp?b=1&s=170667a&w=0&k=20&c=q91dS8ygsQpOKqjAVEjsDuscGljEBlIUZHs_lH8USrw=",
+      "posted_date": "July 10, 2023",
+      "reading_time": 15,
+      "hashtags": ["#Foodie", "#Cuisine", "#Travel"]
+    },
+    {
+      "id": 78901,
+      "Title": "Tech Talk: Future of AI",
+      "author": "David Johnson",
+      "author_img": "https://media.istockphoto.com/id/1399395748/photo/cheerful-business-woman-with-glasses-posing-with-her-hands-under-her-face-showing-her-smile.webp?b=1&s=170667a&w=0&k=20&c=HdGlQ9BzmRtM015ck_F3PCIlB-_7id0Lp4h2rKLIj-0=",
+      "cover_photo": "https://media.istockphoto.com/id/1416447127/photo/blocks-covering-the-earth.webp?b=1&s=170667a&w=0&k=20&c=ctCzIenzxHLV-AyZVDzTWN9wvcp8UrNlDfNT0U2MJNs=",
+      "posted_date": "June 5, 2023",
+      "reading_time": 7,
+      "hashtags": ["#AI", "#Technology", "#Innovation"]
+    },
+    {
+      "id": 34567,
+      "Title": "Health and Wellness: Mind and Body",
+      "author": "Lisa Miller",
+      "author_img": "https://media.istockphoto.com/id/1407084419/photo/portrait-of-happy-mature-women.webp?b=1&s=170667a&w=0&k=20&c=GF0VJUlpdmd6bnHvDaOOjGP3b4uTYNSrJb8TPdiNxY4=",
+      "cover_photo": "https://media.istockphoto.com/id/1653837887/photo/wooden-blocks-with-the-text-restart-new-business-relaunch-startup-concept-3d-rendering-on-red.webp?b=1&s=170667a&w=0&k=20&c=xueDlPOajBCkc0HJf3L6IECxWpRkZbQ0Zf1j3xl8PBY=",
+      "posted_date": "April 20, 2023",
+      "reading_time": 10,
+      "hashtags": ["#Health", "#Wellness", "#SelfCare"]
+    }
+  ]
+  
